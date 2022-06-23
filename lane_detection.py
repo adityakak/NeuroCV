@@ -9,7 +9,7 @@ import operator
 
 hsv = None
 
-filename = ""
+filename = "change"
 
 
 def distance(p1, p2):
